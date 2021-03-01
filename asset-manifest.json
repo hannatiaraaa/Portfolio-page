@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bd5cdfc1.chunk.css",
+    "main.js": "/portfolio/static/js/main.4218c15b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4218c15b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0929055a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0929055a.js.map",
+    "static/js/2.c8cdba0d.chunk.js": "/portfolio/static/js/2.c8cdba0d.chunk.js",
+    "static/js/2.c8cdba0d.chunk.js.map": "/portfolio/static/js/2.c8cdba0d.chunk.js.map",
+    "static/js/3.33896b16.chunk.js": "/portfolio/static/js/3.33896b16.chunk.js",
+    "static/js/3.33896b16.chunk.js.map": "/portfolio/static/js/3.33896b16.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.bd5cdfc1.chunk.css.map": "/portfolio/static/css/main.bd5cdfc1.chunk.css.map",
+    "static/js/2.c8cdba0d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c8cdba0d.chunk.js.LICENSE.txt",
+    "static/media/instagram.3f6fc8b8.png": "/portfolio/static/media/instagram.3f6fc8b8.png",
+    "static/media/instagramImage.9c8183b8.png": "/portfolio/static/media/instagramImage.9c8183b8.png",
+    "static/media/movE.8141758b.png": "/portfolio/static/media/movE.8141758b.png",
+    "static/media/movEImage.99f27343.png": "/portfolio/static/media/movEImage.99f27343.png",
+    "static/media/movlix.7654aea8.png": "/portfolio/static/media/movlix.7654aea8.png",
+    "static/media/movlixImage.4af742c4.png": "/portfolio/static/media/movlixImage.4af742c4.png",
+    "static/media/sweethome.106282c8.png": "/portfolio/static/media/sweethome.106282c8.png",
+    "static/media/sweethomeImage.ea3a6212.png": "/portfolio/static/media/sweethomeImage.ea3a6212.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0929055a.js",
+    "static/js/2.c8cdba0d.chunk.js",
+    "static/css/main.bd5cdfc1.chunk.css",
+    "static/js/main.4218c15b.chunk.js"
+  ]
+}
