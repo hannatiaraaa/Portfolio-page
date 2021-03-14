@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bd5cdfc1.chunk.css",
-    "main.js": "/portfolio/static/js/main.7a69ab12.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.7a69ab12.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.af6a1d76.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.af6a1d76.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.0929055a.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.0929055a.js.map",
     "static/js/2.c8cdba0d.chunk.js": "/portfolio/static/js/2.c8cdba0d.chunk.js",
@@ -19,12 +19,12 @@
     "static/media/movlix.7654aea8.png": "/portfolio/static/media/movlix.7654aea8.png",
     "static/media/movlixImage.4af742c4.png": "/portfolio/static/media/movlixImage.4af742c4.png",
     "static/media/sweethome.106282c8.png": "/portfolio/static/media/sweethome.106282c8.png",
-    "static/media/sweethomeImage.ea3a6212.png": "/portfolio/static/media/sweethomeImage.ea3a6212.png"
+    "static/media/sweethomeImage.76c387c2.png": "/portfolio/static/media/sweethomeImage.76c387c2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0929055a.js",
     "static/js/2.c8cdba0d.chunk.js",
     "static/css/main.bd5cdfc1.chunk.css",
-    "static/js/main.7a69ab12.chunk.js"
+    "static/js/main.af6a1d76.chunk.js"
   ]
 }
